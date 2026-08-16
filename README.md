@@ -24,7 +24,7 @@ Client desktop avec Qt.
 
 ### Stockage des mots de passe
 
-Les mots de passe seront stockés dans un fichier appelé **vault**. Le format de ce fichier est encore à définir mais pourrait s'inspirer du format ![Keepass KDBX](https://keepass.info/help/kb/kdbx.html).
+Les mots de passe seront stockés dans un fichier appelé **vault**. Le format de ce fichier est encore à définir mais pourrait s'inspirer du format [Keepass KDBX](https://keepass.info/help/kb/kdbx.html).
 
 ### Synchronisation
 
